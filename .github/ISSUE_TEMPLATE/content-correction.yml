@@ -1,0 +1,41 @@
+name: Content correction
+description: Report a technical, source, text, or visual error in the handbook.
+title: "[Correction] Chapter X, page Y — "
+labels:
+  - correction
+body:
+  - type: input
+    id: location
+    attributes:
+      label: Chapter and page
+      placeholder: Chapter 6, page 11
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: Current content
+      description: Quote or describe the claim, label, arrow, or visual that needs correction.
+    validations:
+      required: true
+  - type: textarea
+    id: proposed
+    attributes:
+      label: Proposed correction
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Locked upstream source
+      description: Link to the exact DeepSeek Harness file or commit that supports the correction.
+      placeholder: https://github.com/deepseek-ai/deepseek-harness/blob/47f943.../docs/...
+    validations:
+      required: true
+  - type: input
+    id: verified
+    attributes:
+      label: Verification date
+      placeholder: YYYY-MM-DD
+    validations:
+      required: true

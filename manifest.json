@@ -1,0 +1,95 @@
+{
+  "title": "DeepSeek Harness Visual Handbook",
+  "total_pages": 103,
+  "image_format": "WebP",
+  "image_quality": 92,
+  "image_width": 1376,
+  "image_height": 768,
+  "watermark_status": "Gemini Notebook corner watermark removed",
+  "distribution_note": "WebP files are used for GitHub reading; PDF and original PNG files are release artifacts.",
+  "source_pdf": "DeepSeek-Harness-Visual-Handbook-Complete-Clean.pdf",
+  "source_pdf_sha256": "dab9feaa510ea0124cc044fa32cef5e11ec3fc977e05fd3db2f4433a5c797a7c",
+  "technical_source_commit": "47f943859bef60e4160492346772ded9b24f765a",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "The Missing Layer Around the Model",
+      "pages": 8,
+      "global_page_start": 1,
+      "global_page_end": 8,
+      "directory": "images/chapter-01"
+    },
+    {
+      "chapter": 2,
+      "title": "Your First Safe Harness Task",
+      "pages": 10,
+      "global_page_start": 9,
+      "global_page_end": 18,
+      "directory": "images/chapter-02"
+    },
+    {
+      "chapter": 3,
+      "title": "Everything Is a Plugin",
+      "pages": 11,
+      "global_page_start": 19,
+      "global_page_end": 29,
+      "directory": "images/chapter-03"
+    },
+    {
+      "chapter": 4,
+      "title": "Capability Seams",
+      "pages": 9,
+      "global_page_start": 30,
+      "global_page_end": 38,
+      "directory": "images/chapter-04"
+    },
+    {
+      "chapter": 5,
+      "title": "Memory Is an Event Log",
+      "pages": 9,
+      "global_page_start": 39,
+      "global_page_end": 47,
+      "directory": "images/chapter-05"
+    },
+    {
+      "chapter": 6,
+      "title": "Inside the Agent Loop",
+      "pages": 12,
+      "global_page_start": 48,
+      "global_page_end": 59,
+      "directory": "images/chapter-06"
+    },
+    {
+      "chapter": 7,
+      "title": "Profiles, Presets, and Permissions",
+      "pages": 11,
+      "global_page_start": 60,
+      "global_page_end": 70,
+      "directory": "images/chapter-07"
+    },
+    {
+      "chapter": 8,
+      "title": "Subagents and Portable Execution Worlds",
+      "pages": 11,
+      "global_page_start": 71,
+      "global_page_end": 81,
+      "directory": "images/chapter-08"
+    },
+    {
+      "chapter": 9,
+      "title": "Introspection, Runtime Extensions, and Compaction",
+      "pages": 11,
+      "global_page_start": 82,
+      "global_page_end": 92,
+      "directory": "images/chapter-09"
+    },
+    {
+      "chapter": 10,
+      "title": "From Demo to Production",
+      "pages": 11,
+      "global_page_start": 93,
+      "global_page_end": 103,
+      "directory": "images/chapter-10"
+    }
+  ]
+}
