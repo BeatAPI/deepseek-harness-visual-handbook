@@ -92,3 +92,6 @@ This project welcomes precise corrections and source-drift reports. It does not 
 Original handbook text and visual material owned by this project are licensed under [CC BY-SA 4.0](./LICENSE.md). Third-party names, trademarks, and referenced visual elements are excluded from that grant; see [DISCLAIMER.md](./DISCLAIMER.md).
 
 DeepSeek Harness is maintained by DeepSeek and released under its own MIT license. README design methodology was informed by [beautify-github-readme](https://github.com/oil-oil/beautify-github-readme).
+---
+
+<sub>Maintained by <a href="https://github.com/BeatAPI"><b>BeatAPI</b></a> · <a href="https://beatapi.io">beatapi.io</a> — async AI video APIs for music videos and product ads.</sub>
